@@ -1,0 +1,15 @@
+*{
+  margin: 0px;
+  font-family: 'Silkscreen', cursive;
+}
+body{
+  width: 100vw;
+  height: 100vh;
+}
+#coin-display{
+  height: 20%;
+  display: grid;
+  grid-template-columns: 50% 20% 30%;
+  border: solid 1px green;
+  border-radius: 5px;
+}
